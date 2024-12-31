@@ -38,7 +38,7 @@ export default function Company() {
 
   return (
     <div>
-      <div class="bg-white py-8">
+      <div class="bg-white pt-8">
         <div class="container mx-auto px-4">
           <h2 class="text-lg md:text-xl font-semibold text-center text-gray-700 mb-6">
             Trusted By Over 100+ Startups and Freelance Businesses

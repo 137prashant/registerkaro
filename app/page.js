@@ -5,6 +5,7 @@ import Landing from "./component/Landing";
 import Comapany from "./component/Company";
 import Services from "./component/Services";
 import Footer from "./component/Footer";
+import Tools from "./component/Tools";
 
 export default function Home() {
   
@@ -15,6 +16,7 @@ export default function Home() {
       <Landing />
       <Comapany />
       <Services />
+      <Tools />
       <Footer />
 
       </div>
